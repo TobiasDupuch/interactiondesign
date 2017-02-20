@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Interaction Design
-email: tobias.dupuch@icloud.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Deep diving into the different parts of interaction design. And everything that comes with it.
 baseurl: "/interactiondesign/" # the subpath of your site, e.g. /blog
