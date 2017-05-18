@@ -16,4 +16,4 @@ With the idea of the all-knowing AI coffee machine working it's way in our head 
 Having some context it started to become clear, that most answers revolved around loss of control and not understanding the automated process and where it's data comes from. It was very clear, that this should be the direction we want to go.
 
 ## Desk Research and Related Work ##
-After some desk research we found a few related works. Still thinking about the workshop, it was [The Glass Room (https://theglassroomnyc.org)] which caught our attention the most. For research purposes we ordered the "Springer Handbook of Automation" which definitively is anything but a "handbook".
+After some desk research we found a few related works. Still thinking about the workshop, it was [The Glass Room] (https://theglassroomnyc.org) which caught our attention the most. For research purposes we ordered the "Springer Handbook of Automation" which definitively is anything but a "handbook".

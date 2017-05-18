@@ -25,6 +25,6 @@ Ismael and I made the finishing touches while Carlo and Dani went to get a littl
 ! [Ismael Working on The Mapping](http://carlonatter.ch/wp-content/uploads/2017/05/IMG_4259.jpg)
 
 ## Final Thoughts and Reflection ##
-The installation can be seen on [it's documentation page (http://www.tobens.com/documentation)]
+The installation can be seen on [it's documentation page] (http://www.tobens.com/documentation)
 While on first sight the installation was really nice and I thing it was clear how much work went in to it I think it's weak point is the fact that it is something between and installation and the research room we wanted to do in the beginning.
 The actual phases and the research that we wanted to do with it was overshadowed by the installation character it had in the end. Nevertheless we where very proud of what we achieved and definitively learn a lot during the process. Last but not least I found it surprising that we could profit from every single step we went trough. The End-result really was the product of all the methods we used in the process.
