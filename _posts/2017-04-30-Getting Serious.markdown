@@ -16,8 +16,8 @@ While i started writing the scripts, Carlo Natter laid out the first sketches fo
 
 ## Object Production ##
 3D Printing the objects took a lot of time since the technique requires a lot of testing and supervision. For the pill we tried out a casting the pill around the skeleton with silicon. We had to thermoform a negative first. The approach didn't work out because the silicon was to bubbly and we lost control of where the skeleton would replace itself in the pill.
-! [Casting The Pill](assets/casting.jpg)
+! [Casting The Pill](https://github.com/TobiasDupuch/interactiondesign/blob/gh-pages/assets/casting.jpg)
 All the other objects where time intensive but worked out pretty well afters some iteration.
 
 ## Installation Prep ##
-Since we didn't get to build the room we had to move that to the last week. So we just did the preparations like renting iPads and finding a room that fits our purpose. 
+Since we didn't get to build the room we had to move that to the last week. So we just did the preparations like renting iPads and finding a room that fits our purpose.
