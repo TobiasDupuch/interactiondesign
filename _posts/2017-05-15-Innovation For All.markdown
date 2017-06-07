@@ -12,4 +12,4 @@ Everyone would write down 5 bugs for the student attellier then give them to som
 
 ## Innovation For All Part 2 ##
 Presentation by Tobias Dupuch.
-I wanted to talk about the open source / open innovation movement. Based on the RepRap project i showed some aspects of open innovation and talked about android's open source problem. You can read it all [here](https://github.com/TobiasDupuch/interactiondesign/blob/gh-pages/assets/handout.pdf) in the handout:
+I wanted to talk about the open source / open innovation movement. Based on the RepRap project i showed some aspects of open innovation and talked about android's open source problem. You can read it all [here](https://github.com/TobiasDupuch/interactiondesign/blob/gh-pages/assets/Tobias_Dupuch_InnovationForAll.pdf) in the handout:
