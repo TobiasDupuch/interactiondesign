@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Prototyping and Additional Field Research"
-date:   2017-04-20 21:22:40 +0100
-categories: Design Process
+date:   2017-04-05 21:22:40 +0100
+categories: Design Method
 ---
 ## Giving People and Idea ##
 This weeks goal was to make a prototype and then go talk to people again with it. This gives them a better understanding of what we ask and puts them in a different position then just asking them fully rhetorical questions.
